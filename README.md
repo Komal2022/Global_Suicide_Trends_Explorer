@@ -87,10 +87,14 @@ This project aims to bridge that gap using data-driven insights.
 
 ```
 Global_Suicide_Trends_Explorer/
+│── README.md
 │── app.py
 │── master.csv
 │── cleaned_suicide_data.csv
-│── README.md
+│── Exploratory_Data_Analysis_GSTE.ipynb
+
+
+
 ```
 
 ---
