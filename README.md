@@ -2,14 +2,24 @@
 
 ## 📸 Project Preview
 
-<img width="859" height="192" alt="image" src="https://github.com/user-attachments/assets/968c537a-7824-41a7-9bd4-86ea12923eef" />
-<img width="1355" height="504" alt="image" src="https://github.com/user-attachments/assets/cc38f3dc-b0f8-4aac-841a-2adbc22c4254" />
-<img width="1299" height="543" alt="image" src="https://github.com/user-attachments/assets/d82aaab2-e01a-4787-ac66-7f8375825599" />
-<img width="1333" height="549" alt="image" src="https://github.com/user-attachments/assets/09af43dd-ceb0-478d-ba24-8ac22ef002ca" />
-<img width="1280" height="554" alt="image" src="https://github.com/user-attachments/assets/a69ba9e9-c40e-408e-9613-47088337693a" />
-<img width="1329" height="560" alt="image" src="https://github.com/user-attachments/assets/06bea68b-a34a-4f93-99a1-7982a05e994f" />
-<img width="1300" height="550" alt="image" src="https://github.com/user-attachments/assets/c7287ce8-8e00-47c4-a026-06c8f05a2c60" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/968c537a-7824-41a7-9bd4-86ea12923eef" width="80%" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc38f3dc-b0f8-4aac-841a-2adbc22c4254" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d82aaab2-e01a-4787-ac66-7f8375825599" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09af43dd-ceb0-478d-ba24-8ac22ef002ca" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a69ba9e9-c40e-408e-9613-47088337693a" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/06bea68b-a34a-4f93-99a1-7982a05e994f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c7287ce8-8e00-47c4-a026-06c8f05a2c60" width="45%" />
+</p>
 
 ---
 
@@ -154,7 +164,5 @@ This project is intended for **educational and analytical purposes only**. It de
 If you have any suggestions, feedback, or collaboration ideas, feel free to connect!
 
 ---
-
-⭐ If you found this project useful, don't forget to star the repository!
 
 ⭐ **If you found this project useful, don't forget to star the repository!**
