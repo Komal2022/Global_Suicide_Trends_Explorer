@@ -3,25 +3,19 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/968c537a-7824-41a7-9bd4-86ea12923eef" width="80%" />
+  <img src="https://github.com/user-attachments/assets/cc38f3dc-b0f8-4aac-841a-2adbc22c4254" width="45%" style="margin:10px; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/d82aaab2-e01a-4787-ac66-7f8375825599" width="45%" style="margin:10px; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc38f3dc-b0f8-4aac-841a-2adbc22c4254" width="45%" />
-  <img src="https://github.com/user-attachments/assets/d82aaab2-e01a-4787-ac66-7f8375825599" width="45%" />
+  <img src="https://github.com/user-attachments/assets/09af43dd-ceb0-478d-ba24-8ac22ef002ca" width="45%" style="margin:10px; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/a69ba9e9-c40e-408e-9613-47088337693a" width="45%" style="margin:10px; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09af43dd-ceb0-478d-ba24-8ac22ef002ca" width="45%" />
-  <img src="https://github.com/user-attachments/assets/a69ba9e9-c40e-408e-9613-47088337693a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/06bea68b-a34a-4f93-99a1-7982a05e994f" width="45%" style="margin:10px; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);" />
+  <img src="https://github.com/user-attachments/assets/c7287ce8-8e00-47c4-a026-06c8f05a2c60" width="45%" style="margin:10px; border-radius:10px; box-shadow:0px 4px 10px rgba(0,0,0,0.2);" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/06bea68b-a34a-4f93-99a1-7982a05e994f" width="45%" />
-  <img src="https://github.com/user-attachments/assets/c7287ce8-8e00-47c4-a026-06c8f05a2c60" width="45%" />
-</p>
-
----
 
 ## 📌 Overview
 
